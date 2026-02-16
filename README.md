@@ -5,3 +5,9 @@
 2. Another folder containing the 2 .ipynb for the pendulum and quadrotor then corresponding .py files
 
 Omkar Tupe*,Max Hartman*,Lav Varshney,Saurav Prakash
+
+
+<div align=center>
+<figure class="second">
+    <img src="./assets/figs/Nonlinear_FL.png" width="800"/>
+</figure>
