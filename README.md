@@ -9,5 +9,5 @@ Omkar Tupe*,Max Hartman*,Lav Varshney,Saurav Prakash
 
 <div align=center>
 <figure class="second">
-    <img src="./assets/figs/Nonlinear_FL.png" width="800"/>
+    <img src="./assets/figs/Nonlinear_FL.png" width="600"/>
 </figure>
