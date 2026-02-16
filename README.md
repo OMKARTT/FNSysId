@@ -11,5 +11,6 @@ Omkar Tupe*,Max Hartman*,Lav Varshney,Saurav Prakash
 <figure class="second">
     <img src="./assets/figs/Nonlinear_FL.png" width="600"/>
 </figure>
+    
 <h align="justify">Federated nonlinear system identification</h>
 </div>
