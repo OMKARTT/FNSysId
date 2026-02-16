@@ -1,8 +1,9 @@
 <div align="center" style="font-family: charter;">
-# FNSysId
+<!-- # FNSysId -->
+    <h1>FNSysId</h1>
 </div>
-1. One folder for nonlinear fedsysid including citing of the paper
-2. Another folder containing the 2 .ipynb for the pendulum and quadrotor then corresponding .py files
+<!-- 1. One folder for nonlinear fedsysid including citing of the paper
+2. Another folder containing the 2 .ipynb for the pendulum and quadrotor then corresponding .py files -->
 
 Omkar Tupe*,Max Hartman*,Lav Varshney,Saurav Prakash
 
