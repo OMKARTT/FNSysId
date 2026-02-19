@@ -15,7 +15,7 @@ Omkar Tupe*,Max Hartman*,[Lav Varshney](https://www.varshney.csl.illinois.edu/),
     
 <h align="justify">Federated nonlinear system identification</h>
 </div>
-We study federated learning for linearly parameterized nonlinear system identification and provide theoretical guarantees showing improved convergence rates compared to centralized approaches, with performance scaling positively with the number of clients. The nonlinear convergence constant depends on the feature map ( \phi ), which can be designed to enhance excitation and identification accuracy. Experimental validation on nonlinear dynamical systems with real-analytic features (e.g., polynomial and trigonometric terms) demonstrates consistent convergence improvements under varying noise levels and i.i.d. control inputs.
+We study federated learning for linearly parameterized nonlinear system identification and provide theoretical guarantees showing improved convergence rates compared to centralized approaches, with performance scaling positively with the number of clients. The nonlinear convergence constant depends on the feature map , which can be designed to enhance excitation and identification accuracy. Experimental validation on nonlinear dynamical systems with real-analytic features (e.g., polynomial and trigonometric terms) demonstrates consistent convergence improvements under varying noise levels and i.i.d. control inputs.
 
 ## Contact
 The authors may be contacted for any questions or clarifications regarding the code or the paper by opening a GitHub issue or sending an email.
