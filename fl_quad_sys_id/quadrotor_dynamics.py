@@ -1,3 +1,7 @@
+# Quadrotor trajectory data were generated using the implementation from the real-analytic-nonlinear-sys-id codebase 
+# ( https://github.com/NeginMusavi/real-analytic-nonlinear-sys-id ), 
+# associated with the paper Identification of Analytic Nonlinear Dynamical Systems with Non-asymptotic Guarantees.
+
 import numpy as np
 from scipy.stats import truncnorm
 import random
