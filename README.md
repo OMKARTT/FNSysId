@@ -5,7 +5,7 @@
 <!-- 1. One folder for nonlinear fedsysid including citing of the paper
 2. Another folder containing the 2 .ipynb for the pendulum and quadrotor then corresponding .py files -->
 
-Omkar Tupe*,Max Hartman*,[Lav Varshney](https://www.varshney.csl.illinois.edu/),Saurav Prakash
+Omkar Tupe*,Max Hartman*,[Lav Varshney](https://www.varshney.csl.illinois.edu/),[Saurav Prakash](https://www.ee.iitm.ac.in/people/saurav-prakash/)
 </div>
 
 <div align=center>
